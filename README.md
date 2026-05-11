@@ -4,7 +4,7 @@
 ## 📌 About Project
 A monthly household budget tracker built in Excel 
 to monitor income, expenses and savings throughout 
-the year 2024.
+the year 2025.
 
 ## 📊 What's Inside
 - Monthly Data Sheet — Jan to Dec complete data
